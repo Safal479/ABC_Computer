@@ -1,0 +1,62 @@
+.jumbotron img 
+{
+    width: 100%;
+    padding: 20px 30px;
+    border-right: 1px solid #eee;
+}
+.subtopic img
+{
+    width: 50%;
+}
+footer
+{
+    padding: 10px 70px;
+}
+.titleName
+{
+    padding: 10px 2px;
+}
+.services
+{
+    border-bottom: 1px solid black;
+    padding: 20px 5px;
+}
+.contacts
+{
+    padding: 20px 25px;
+}
+
+.subtopic
+{
+    margin-top: 5px;
+    padding: 15px 5px;
+}
+.jumbotron
+{
+    width: 100%;
+    background-color: skyblue;
+    padding: 20px 30px;
+    border-bottom: 2px solid black;
+}
+.jumboHead
+{
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top: 80px;
+    text-align: center;
+}
+.homerow
+{
+    padding: 20px 10px;
+}
+.homelist
+{
+    padding: 10px 20px;
+    border-right: 1px solid black;
+}
+nav.nav
+{
+    border-bottom: 2px solid black;
+    padding: 8px 2px 12px;
+    background-color: skyblue;
+}
